@@ -11,9 +11,9 @@ namespace LAB02_AMT
             UserInterface();
         }
 
-        static void UserInterface()
+        static void UserInterface() 
         {
-
+             
             for (int i = 0; i < 4; i++)
             {
 
