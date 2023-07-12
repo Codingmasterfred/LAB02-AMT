@@ -13,7 +13,7 @@ namespace LAB02_AMT
 
         static void UserInterface() 
         {
-
+             
             for (int i = 0; i < 4; i++)
             {
 
